@@ -1,5 +1,5 @@
 body{
-  background-color: whitesmoke;
+  background: linear-gradient(90deg, #00657c, #0D0A0b);
   height: 100vh;
   display: flex;
   justify-content: center;
